@@ -1,8 +1,8 @@
 /*  your css code here. If applicable */
-.header{
+header{
 	background-color : #011e29;
 	color:white;
-	padding:10px;
+	padding:5px;
 	text-align:center;
 }
 body{
